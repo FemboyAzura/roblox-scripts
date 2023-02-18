@@ -16,8 +16,8 @@ if isfile and writefile and typeof(isfile) == 'function' and typeof(writefile) =
 		writefile('PromptedDiscordCFCommunityRRRRR.txt', game:GetService('HttpService'):JSONEncode('hi'))
 		local Module = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))()
 		Module.Prompt({
-			invite = "https://discord.gg/fNeggqVMZ",
-			name = "Azura Community",
+			invite = "https://discord.gg/fNeggqVMZs",
+			name = "CF Community",
 		})
 	end
 end
@@ -365,29 +365,29 @@ chat(settin.Beg.Messages[math.random(1,#settin.Beg.Messages)])
 local boothText = require(game.ReplicatedStorage.Remotes).Event("SetBoothText")
 task.spawn(function()
 	while true do
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ------💸-Azura Casino-💸  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ------💸-Azuras Casino-💸 	 💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -----💸-Azura's Casino-💸-  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -----💸-Azuras Casino-💸-  	💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ----💸-Azura's Casino-💸--  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ----💸-Azuras Casino-💸--  	💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ---💸-Azura's Casino-💸---  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ---💸-Azuras Casino-💸---  	💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 --💸-Azura's Casino-💸----  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 --💸-Azuras Casino-💸----  	💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -💸-Azura's Casino-💸-----  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -💸-Azuras Casino-💸-----  	💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 💸-Azura's Casino-💸------  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 💸-Azuras Casino-💸------ 	 💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -💸-Azura's Casino-💸-----  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -💸-Azuras Casino-💸-----  	💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 --💸-Azura's Casino-💸----  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 --💸-Azuras Casino-💸---- 	 💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ---💸-Azura's Casino-💸---  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ---💸-Azuras Casino-💸---  	💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ----💸-Azura's Casino-💸--  💸          .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 ----💸-Azuras Casino-💸-- 	 💸          .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
-		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -----💸-Azura's Casino-💸-  💸         .help to play        💸</font></font></font></stroke>', "booth")
+		boothText:FireServer('<stroke color="#444444" thickness="1"><font size="9"><font color= "#FFB300"><font face="DenkOne">💸         Win Bobux!         💸 -----💸-Azuras Casino-💸-  	💸         .help to play        💸</font></font></font></stroke>', "booth")
 		task.wait(3)
 	end
 end)

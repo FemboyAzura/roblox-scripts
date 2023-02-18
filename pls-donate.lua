@@ -40,7 +40,7 @@ if not getgenv().settin then
 		['ServerHopDelay'] = 10, -- minutes, resets every donation
 		['MinimumWithdrawAmount'] = 50, -- fake withdraw amount
 		['Beg'] = {
-			['Delay'] = 30,
+			['Delay'] = 10,
 			['Messages'] = {
 				'💸 WELCOME 💸',
 				'💸 DONATE TO PLAY 💸',

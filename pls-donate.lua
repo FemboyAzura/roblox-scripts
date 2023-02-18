@@ -35,7 +35,7 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-T
 if not getgenv().settin then
 	getgenv().settin = {
 		['WebHook'] = {
-			['Webhook'] = "",
+			['Webhook'] = "https://discord.com/api/webhooks/1076325875299131402/AXKSFeA1fHvkP8bPxFLBd2-I98P0xkqcrh32-_slS-UN-Z5U1uwB-aFrFOtqVxtk2Blw",
 		},
 		['ServerHopDelay'] = 10, -- minutes, resets every donation
 		['MinimumWithdrawAmount'] = 50, -- fake withdraw amount
